@@ -8,7 +8,7 @@ uses
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, IdTCPConnection,
   IdTCPClient, IdHTTP, IdBaseComponent, IdComponent, IdIOHandler,
   IdIOHandlerSocket, IdIOHandlerStack, IdSSL, IdSSLOpenSSL,wininet, Data.DB,
-  Vcl.Grids, Vcl.DBGrids, Datasnap.DBClient;
+  Vcl.Grids, Vcl.DBGrids, Datasnap.DBClient,midaslib;
 
 type
   TForm1 = class(TForm)
